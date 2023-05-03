@@ -1,3 +1,4 @@
 userID:tia
 password:g'raha
 confirm password:g'raha
+address:eorzea
